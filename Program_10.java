@@ -1,4 +1,4 @@
-// Program for Bank usage
+// Program for Bank Account Operations 
 
 import java.util.Scanner;
 
